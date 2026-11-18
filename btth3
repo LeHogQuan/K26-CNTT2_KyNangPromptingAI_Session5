@@ -14,9 +14,11 @@ hãy xử lý thông tin theo các bước dưới đây:
 - bước 5: soạn phản hồi chuyên nghiệp để gửi khách hàng
 
 những yêu cầu kỹ thuật bắt buộc:
-- hhayxphaan tích theo trình tự từng bước
+- hãy phân tích theo trình tự từng bước
 - ko được tử giả định chính sách đổi trả của cửa hàng
 - phân biệt rõ dữ kiện, giả thuyết và thông tin chưa xác định
 - ko đưa ra kết luận thiếu căn cứ
 - làm theo từng bước
 - nêu ra 2 phương án xử lý, kèm ưu điểm và hạn chế
+
+Hãy viết 1 prompt hoàn chỉnh, báo cáo phân tích theo từng bước, danh sách thông tin cần xác minh
